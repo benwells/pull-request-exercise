@@ -77,10 +77,7 @@ function levelUp(wiz) {
 }
 //End Brandon's Wiz Level-uper
 
-//Brandon's Wiz Level-uper
-
 function printLevel(wiz) {
  alert(wiz.level);
 }
-//End Brandon's Wiz Level-uper
 
