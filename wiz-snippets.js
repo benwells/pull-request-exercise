@@ -69,3 +69,18 @@ function darkWizz(wizArray) {
 }
 
 //End McGraw's Dark Wiz Locator
+
+//Brandon's Wiz Level-uper
+
+function levelUp(wiz) {
+ wiz.level += 1;
+}
+//End Brandon's Wiz Level-uper
+
+//Brandon's Wiz Level-uper
+
+function printLevel(wiz) {
+ alert(wiz.level);
+}
+//End Brandon's Wiz Level-uper
+
